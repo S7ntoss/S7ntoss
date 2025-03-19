@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S7ntoss
-- 👀 I’m interested in Devolvement Games
+- 👀 I’m interested in Devolpement Software and Devolpmente Games
 - 🌱 I’m currently learning  C# C C++ Html, CSS, JavaScript, GML( Game Maker Language), PHP, SQL, Liquid, JSON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
